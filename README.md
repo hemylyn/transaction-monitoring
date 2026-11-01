@@ -46,3 +46,8 @@ API dedicada à segurança da informação e conformidade cadastral, projetada p
 
 <img width="3378" height="1836" alt="FLUXOGRAMA - Monitoramento" src="https://github.com/user-attachments/assets/4fa663dd-b638-4761-a7e2-a15de00fd68d" />
 
+## **Modelagem do Banco de Dados**
+
+Modelagem relacional desenvolvida para armazenar dados de usuários e registrar o histórico de transações processadas pelo sistema antifraude.
+
+<img width="643" height="408" alt="modelo_relacional" src="https://github.com/user-attachments/assets/3b7b41bb-0614-44ab-87ae-efeeb36c4605" />
