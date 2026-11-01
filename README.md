@@ -50,4 +50,4 @@ API dedicada à segurança da informação e conformidade cadastral, projetada p
 
 Modelagem relacional desenvolvida para armazenar dados de usuários e registrar o histórico de transações processadas pelo sistema antifraude.
 
-<img width="643" height="408" alt="modelo_relacional" src="https://github.com/user-attachments/assets/3b7b41bb-0614-44ab-87ae-efeeb36c4605" />
+<img width="643" height="408" alt="image" src="https://github.com/user-attachments/assets/6af522d1-bb54-4218-a47a-3905a2effc95" />
