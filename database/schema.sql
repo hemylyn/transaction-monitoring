@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS usuarios (
+CREATE TABLE IF NOT EXISTS usuario (
     cpf VARCHAR(11) PRIMARY KEY
 );
 
@@ -14,5 +14,5 @@ CREATE TABLE IF NOT EXISTS transacao (
 
     CONSTRAINT fk_transacao_usuario
         FOREIGN KEY (cpf)
-        REFERENCES usuarios(cpf)
+        REFERENCES usuario(cpf)
 );
